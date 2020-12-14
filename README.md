@@ -1,2 +1,26 @@
-### Fala dev's! Prazer, eu sou o Lucas!
+<!--
+### Hi there 👋
+**lvidal-gs/lvidal-gs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
+# Fala dev's! Prazer, eu sou o Lucas! 👾
+
+**Aspirante à _Full Stack_ Developer 👨🏽‍💻** 
+
+Tecnologias que estudo e desenvolvo: <br>
+
+<img src="" width="150px" height="150px">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvidal-gs&layout=compact&theme=material-palenight)](https://github.com/lvidal-gs/github-readme-stats)
+
+
+[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lvidal-gs&theme=material-palenight)](https://github.com/lvidal-gs/github-readme-stats)
