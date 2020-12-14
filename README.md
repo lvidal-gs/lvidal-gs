@@ -16,9 +16,25 @@ Here are some ideas to get you started:
 
 **Aspirante à _Full Stack_ Developer 👨🏽‍💻** 
 
-Tecnologias que estudo e desenvolvo: <br>
+Tecnologias no qual utilizo e desenvolvo: <br>
+<img src="/imgs/html5-logo-9.png" width="40px" height="40px">
+<img src="/imgs/css-131-722685.png" width="40px" height="40px">
+<img src="/imgs/js.png" width="40px" height="40px">
+<img src="/imgs/new-php-logo.svg" width="40px" height="40px">
+<img src="/imgs/MySQL-Logo.wine.png" width="40px" height="40px">
+<img src="/imgs/boot.png" width="40px" height="40px">
+<img src="/imgs/vscode.png" width="40px" height="40px">
+<img src="/imgs/GitHub.png" width="40px" height="40px">
+<br>
 
-<img src="" width="150px" height="150px">
+Tecnologias/frameworks que pretendo estudar: <br>
+<img src="/imgs/Laravel.png" width="40px" height="40px">
+<img src="/imgs/React.png" width="40px" height="40px">
+<img src="/imgs/typescript.png" width="40px" height="40px">
+<img src="/imgs/boot.png" width="40px" height="40px">
+<br>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvidal-gs&layout=compact&theme=material-palenight)](https://github.com/lvidal-gs/github-readme-stats)
 
