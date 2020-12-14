@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 <code><img src="/imgs/c++.png" width="40px" height="40px"></code>&nbsp;
 <br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvidal-gs&layout=compact&theme=material-palenight)](https://github.com/lvidal-gs/github-readme-stats)
+
 ### Sobre mim 🖖🏼
 Bom, primeiramente prazer! Me chamo Lucas Vidal. Tenho 20 anos, sou técnico em eletroeletrônica de formação pela Escola SENAI "Roberto Simonsen", mas desde pequeno sempre gostei e admirei esse mercado dos pc's. Sempre brincava de abrir várias janelas de configuração do meu computador (era um windows XP na época) e mexia em tudo que era direito para saber o que que era possível fazer com ele. <br>
 
@@ -45,5 +47,4 @@ Foi aí que resolvi virar a chavinha da minha vida e entrar de vez no mercado da
 
 #NeverStopLearning 🚀
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvidal-gs&layout=compact&theme=material-palenight)](https://github.com/lvidal-gs/github-readme-stats)
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lvidal-gs&theme=material-palenight)](https://github.com/lvidal-gs/github-readme-stats)
