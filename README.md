@@ -12,9 +12,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Fala dev's! Prazer, eu sou o Lucas! 👾
+# Hello dev's! Nice to meet u, I'm Lucas! 👾
 
-> **Aspirante à _Full Stack_ Developer 👨🏽‍💻** 
+> ** _Full Stack_ Developer 
+aspiring 👨🏽‍💻** 
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lvidal-gs)](https://github.com/lvidal-gs)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-vidal-gs/)](https://www.linkedin.com/in/lucas-vidal-gs/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasvidal.contato@gmail.com)](mailto:lucasvidal.contato@gmail.com)
 
 ### Quais tecnologias utilizo? 🤔
 - As quais utilizo e desenvolvo: <br>
