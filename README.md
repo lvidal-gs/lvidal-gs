@@ -17,23 +17,22 @@ Here are some ideas to get you started:
 **Aspirante à _Full Stack_ Developer 👨🏽‍💻** 
 
 Tecnologias no qual utilizo e desenvolvo: <br>
-<img src="/imgs/html5-logo-9.png" width="40px" height="40px">
-<img src="/imgs/css-131-722685.png" width="40px" height="40px">
-<img src="/imgs/js.png" width="40px" height="40px">
-<img src="/imgs/new-php-logo.svg" width="40px" height="40px">
-<img src="/imgs/MySQL-Logo.wine.png" width="40px" height="40px">
-<img src="/imgs/boot.png" width="40px" height="40px">
-<img src="/imgs/vscode.png" width="40px" height="40px">
-<img src="/imgs/GitHub.png" width="40px" height="40px">
+<code><img src="/imgs/html.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="/imgs/css.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="/imgs/js.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="/imgs/new-php-logo.svg" width="40px" height="40px"></code>&nbsp;
+<code><img src="/imgs/mysql.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="/imgs/boot.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="/imgs/vscode.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="/imgs/GitHub.png" width="40px" height="40px"></code>&nbsp;
 <br>
 
 Tecnologias/frameworks que pretendo estudar: <br>
-<img src="/imgs/Laravel.png" width="40px" height="40px">
-<img src="/imgs/React.png" width="40px" height="40px">
-<img src="/imgs/typescript.png" width="40px" height="40px">
-<img src="/imgs/boot.png" width="40px" height="40px">
+<code><img src="/imgs/Laravel.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="/imgs/React.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="/imgs/typescript.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="/imgs/node.png" width="40px" height="40px"></code>&nbsp;
 <br>
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvidal-gs&layout=compact&theme=material-palenight)](https://github.com/lvidal-gs/github-readme-stats)
