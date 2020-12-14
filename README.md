@@ -14,24 +14,25 @@ Here are some ideas to get you started:
 
 # Fala dev's! Prazer, eu sou o Lucas! 👾
 
-**Aspirante à _Full Stack_ Developer 👨🏽‍💻** 
+### **Aspirante à _Full Stack_ Developer 👨🏽‍💻** 
 
-Tecnologias no qual utilizo e desenvolvo: <br>
+- Tecnologias no qual utilizo e desenvolvo: <br>
 <code><img src="/imgs/html.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="/imgs/css.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="/imgs/js.png" width="40px" height="40px"></code>&nbsp;
-<code><img src="/imgs/new-php-logo.svg" width="40px" height="40px"></code>&nbsp;
+<code><img src="/imgs/php.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="/imgs/mysql.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="/imgs/boot.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="/imgs/vscode.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="/imgs/GitHub.png" width="40px" height="40px"></code>&nbsp;
 <br>
 
-Tecnologias/frameworks que pretendo estudar: <br>
+- Tecnologias/frameworks que pretendo estudar: <br>
 <code><img src="/imgs/Laravel.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="/imgs/React.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="/imgs/typescript.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="/imgs/node.png" width="40px" height="40px"></code>&nbsp;
+<code><img src="/imgs/c++.png" width="40px" height="40px"></code>&nbsp;
 <br>
 
 
