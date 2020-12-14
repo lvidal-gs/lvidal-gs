@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 
 # Hello dev's! Nice to meet u, I'm Lucas! 👾
 
-> ** _Full Stack_ Developer 
-aspiring 👨🏽‍💻** 
+> **_Full Stack Developer_ (or something like this) 👨🏽‍💻** 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lvidal-gs)](https://github.com/lvidal-gs)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-vidal-gs/)](https://www.linkedin.com/in/lucas-vidal-gs/)
