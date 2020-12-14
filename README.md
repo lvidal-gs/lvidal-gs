@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 
 # Fala dev's! Prazer, eu sou o Lucas! 👾
 
-### **Aspirante à _Full Stack_ Developer 👨🏽‍💻** 
+> **Aspirante à _Full Stack_ Developer 👨🏽‍💻** 
 
-- Tecnologias no qual utilizo e desenvolvo: <br>
+### Quais tecnologias utilizo? 🤔
+- As quais utilizo e desenvolvo: <br>
 <code><img src="/imgs/html.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="/imgs/css.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="/imgs/js.png" width="40px" height="40px"></code>&nbsp;
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 <code><img src="/imgs/GitHub.png" width="40px" height="40px"></code>&nbsp;
 <br>
 
-- Tecnologias/frameworks que pretendo estudar: <br>
+- As quais pretendo estudar: <br>
 <code><img src="/imgs/Laravel.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="/imgs/React.png" width="40px" height="40px"></code>&nbsp;
 <code><img src="/imgs/typescript.png" width="40px" height="40px"></code>&nbsp;
@@ -35,8 +36,14 @@ Here are some ideas to get you started:
 <code><img src="/imgs/c++.png" width="40px" height="40px"></code>&nbsp;
 <br>
 
+### Sobre mim 🖖🏼
+Bom, primeiramente prazer! Me chamo Lucas Vidal. Tenho 20 anos, sou técnico em eletroeletrônica de formação pela Escola SENAI "Roberto Simonsen", mas desde pequeno sempre gostei e admirei esse mercado dos pc's. Sempre brincava de abrir várias janelas de configuração do meu computador (era um windows XP na época) e mexia em tudo que era direito para saber o que que era possível fazer com ele. <br>
+
+Nunca havia passado pela minha cabeça que um dia eu podia ganhar dinheiro com aquilo, então logo fui para área da eletroeletrônica por conta de um concurso que tinha feito e, com isso, gahei uma vaga de jovem aprendiz pelo Metrô de São Paulo e um curso inteiramente grátis. Fiquei exatos 3 anos na área e olha... esses 3 anos foram difíceis! A cada dia que passava, percebia que aquilo não era o que queria.<br>
+
+Foi aí que resolvi virar a chavinha da minha vida e entrar de vez no mercado da tecnologia. E agora cá estou eu! Amando o que faço e querendo aprender cada vez mais. O mundo é nosso, dev's! Vamos para cima! 💪🏽 <br>
+
+#NeverStopLearning 🚀
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvidal-gs&layout=compact&theme=material-palenight)](https://github.com/lvidal-gs/github-readme-stats)
-
-
 [![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lvidal-gs&theme=material-palenight)](https://github.com/lvidal-gs/github-readme-stats)
