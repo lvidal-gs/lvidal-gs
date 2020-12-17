@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello dev's! Nice to meet u, I'm Lucas! 👾
+# Hello dev's! Prazer, sou o Lucas! 👾
 
 > **_Full Stack Developer_ (or something like this) 👨🏽‍💻** 
 
