@@ -1,54 +1,24 @@
-<!--
-### Hi there 👋
-**lvidal-gs/lvidal-gs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align='center'>Hi, everyone! 😄</h1>
 
-# Hello dev's! Prazer, sou o Lucas! 👾
+<h3 align='center'>Front-end Developer Jr.</h3>
 
-> **_Full Stack Developer_ (ou algo do tipo) 👨🏽‍💻** 
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-20232A?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-20232A?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
+</div>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lvidal-gs)](https://github.com/lvidal-gs)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-vidal-gs/)](https://www.linkedin.com/in/lucas-vidal-gs/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasvidal.contato@gmail.com)](mailto:lucasvidal.contato@gmail.com)
-
-### Quais tecnologias utilizo? 🤔
-<code><img src="/imgs/html.png" width="40px" height="40px"></code>&nbsp;
-<code><img src="/imgs/css.png" width="40px" height="40px"></code>&nbsp;
-<code><img src="/imgs/js.png" width="40px" height="40px"></code>&nbsp;
-<code><img src="/imgs/php.png" width="40px" height="40px"></code>&nbsp;
-<code><img src="/imgs/mysql.png" width="40px" height="40px"></code>&nbsp;
-<code><img src="/imgs/boot.png" width="40px" height="40px"></code>&nbsp;
-<code><img src="/imgs/vscode.png" width="40px" height="40px"></code>&nbsp;
-<code><img src="/imgs/git.png" width="40px" height="40px"></code>&nbsp;
-<br>
-
-### As quais quero começar a estudar <br>
-<code><img src="/imgs/Laravel.png" width="40px" height="40px"></code>&nbsp;
-<code><img src="/imgs/React.png" width="40px" height="40px"></code>&nbsp;
-<code><img src="/imgs/typescript.png" width="40px" height="40px"></code>&nbsp;
-<code><img src="/imgs/node.png" width="40px" height="40px"></code>&nbsp;
-<code><img src="/imgs/swift.png" width="40px" height="40px"></code>&nbsp;
-<code><img src="/imgs/graphql.png" width="40px" height="40px"></code>&nbsp;
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lvidal-gs&layout=compact&theme=material-palenight)](https://github.com/lvidal-gs/github-readme-stats)
-
-### Sobre mim 🖖🏼
-Bom, primeiramente prazer! Me chamo Lucas Vidal. Tenho 20 anos, sou técnico em eletroeletrônica de formação pela Escola SENAI "Roberto Simonsen", mas desde pequeno sempre gostei e admirei esse mercado dos pc's. Sempre brincava de abrir várias janelas de configuração do meu computador (era um windows XP na época) e mexia em tudo que era direito para saber o que que era possível fazer com ele. <br>
-
-Nunca havia passado pela minha cabeça que um dia eu podia ganhar dinheiro com aquilo, então logo fui para área da eletroeletrônica por conta de um concurso que tinha feito e, com isso, gahei uma vaga de jovem aprendiz pelo Metrô de São Paulo e um curso inteiramente grátis. Fiquei exatos 3 anos na área e olha... esses 3 anos foram difíceis! A cada dia que passava, percebia que aquilo não era o que queria.<br>
-
-Foi aí que resolvi virar a chavinha da minha vida e entrar de vez no mercado da tecnologia. E agora cá estou eu! Amando o que faço e querendo aprender cada vez mais. O mundo é nosso, dev's! Vamos para cima! 💪🏽 <br>
+<h2 align='center'> My stats 🖥</h2>
+<div id="badges" align="center">
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=lvidal-gs&bg_color=20232A&text_color=ffffff&show_icons=true&title_color=ffffff&icon_color=6633cc"/>
+  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvidal-gs&bg_color=20232A&title_color=ffffff&layout=compact&border_color=ffffff&text_color=ffffff"/>
+</div>
 
 #NeverStopLearning 🚀
 
-[![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=lvidal-gs&theme=material-palenight)](https://github.com/lvidal-gs/github-readme-stats)
+
+
