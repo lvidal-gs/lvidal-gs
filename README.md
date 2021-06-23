@@ -12,13 +12,24 @@
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-20232A?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>
 </div>
 
-<h2 align='center'> My stats 🖥</h2>
-<div id="badges" align="center">
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=lvidal-gs&bg_color=20232A&text_color=ffffff&show_icons=true&title_color=ffffff&icon_color=6633cc"/>
-  <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvidal-gs&bg_color=20232A&title_color=ffffff&layout=compact&border_color=ffffff&text_color=ffffff"/>
+<div id="myInfos">
+  <h3 align="center">About me</h3
+  <ul>
+    <li>👨🏽‍💻 Web developer</li>
+    <li>🌠 Currently learning about UX/UI design</li>
+    <li>📧 Do you want to talk with me? Chill out and write to <strong><a href="mailto:lucasvidal.contato@gmail.com">my mail</a><strong>!</li>
+  </ul>
 </div>
 
-#NeverStopLearning 🚀
+<div id="stats">
+    <h3 align='center'> My stats 🖥</h3>
+    <div id="badges" align="center">
+      <img align="center" height="190px" src="https://github-readme-stats.vercel.app/api?username=lvidal-gs&bg_color=20232A&text_color=ffffff&show_icons=true&title_color=ffffff&icon_color=6633cc"/>
+      <img align="center" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvidal-gs&bg_color=20232A&title_color=ffffff&layout=compact&border_color=ffffff&text_color=ffffff"/>
+    </div>
+</div>
+
+  <span align="center"><b>#NeverStopLearning 🚀</b></span>
 
 
 
