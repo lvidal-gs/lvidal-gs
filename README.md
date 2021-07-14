@@ -25,8 +25,8 @@
 <div id="stats">
     <h3 align='center'> My stats 🖥</h3>
     <div id="badges" align="center">
-      <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=lvidal-gs&bg_color=20232A&text_color=ffffff&show_icons=true&title_color=ffffff&icon_color=6633cc"/>
-      <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvidal-gs&bg_color=20232A&title_color=ffffff&layout=compact&border_color=ffffff&text_color=ffffff"/>
+      <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api?username=lvidal-gs&bg_color=20232A&text_color=ffffff&show_icons=true&title_color=fff&icon_color=ffcc00"/>
+      <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvidal-gs&bg_color=20232A&title_color=fff&layout=compact&border_color=ffffff&text_color=ffffff"/>
     </div>
 </div>
 
