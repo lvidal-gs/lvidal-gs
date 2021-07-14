@@ -17,8 +17,8 @@
   <ul>
     <li>👨🏽‍💻 Web developer</li>
     <li>🌠 Currently learning about UX/UI design</li>
-    <li>📧 Do you want to talk with me? Chill out and write to <strong><a href="mailto:lucasvidal.contato@gmail.com">my mail</a><strong>!</li>
-      <li>You can access my personal website too! <a href="lucasvidalweb.web.app">Click here</a> to go there!</li>
+    <li>📧 Do you want to talk with me? Chill out and write to <strong><a href="mailto:lucasvidal.contato@gmail.com">my mail</a></strong>!</li>
+    <li>You can access my personal website too! <strong><a href="https://lucasvidalweb.web.app">Click here</a></strong> to go there!</li>
   </ul>
 </div>
 
