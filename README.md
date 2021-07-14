@@ -19,11 +19,11 @@
       <li>👨🏽‍💻 Web developer</li>
       <li>🌠 Currently learning about UX/UI design</li>
       <li>📧 Do you want to talk with me? Chill out and write to <strong><a href="mailto:lucasvidal.contato@gmail.com">my mail</a></strong>!</li>
-      <li>You can access my personal website too! <strong><a href="https://lucasvidalweb.web.app">Click here</a></strong> to go there!</li>
+      <li>You can access my personal website too! <strong><a target="_blank" href="https://lucasvidalweb.web.app">Click here</a></strong> to go there!</li>
+      <div align="right">
+        <img width="300px" src="imgs/devices.png"/>
+      </div>
     </ul>
-    <p align="right">
-      <img width="300px" src="imgs/devices.png"/>
-    </p>
   </div>
 </div>
 
@@ -35,7 +35,11 @@
     </div>
 </div>
 
-  <h6 align='center'><b>#NeverStopLearning 🚀</b></h6>
-![](https://komarev.com/ghpvc/?username=lvidal-gs&color=ffcc00)
+</br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lvidal-gs&color=ffcc00"/>
+</div>
+
+<h6 align='center'><b>#NeverStopLearning 🚀</b></h6>
 
 
