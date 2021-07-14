@@ -21,10 +21,10 @@
       <li>📧 Do you want to talk with me? Chill out and write to <strong><a href="mailto:lucasvidal.contato@gmail.com">my mail</a></strong>!</li>
       <li>You can access my personal website too! <strong><a href="https://lucasvidalweb.web.app">Click here</a></strong> to go there!</li>
     </ul>
-    
-    <img src="./imgs/devices.png"/>
+    <p align="right">
+      <img width="300px" src="imgs/devices.png"/>
+    </p>
   </div>
-  
 </div>
 
 <div id="stats">
@@ -36,6 +36,6 @@
 </div>
 
   <h6 align='center'><b>#NeverStopLearning 🚀</b></h6>
-
+![](https://komarev.com/ghpvc/?username=lvidal-gs&color=ffcc00)
 
 
