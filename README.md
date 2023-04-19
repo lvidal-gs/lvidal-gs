@@ -8,7 +8,8 @@
   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/php-20232A?style=for-the-badge&logo=php&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/laravel-20232A?style=for-the-badge&logo=laravel&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/ANGULAR.JS-20232A?style=for-the-badge&logo=ANGULAR&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-20232A?style=for-the-badge&logo=adobe%20illustrator&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-20232A?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=yellow"/>
