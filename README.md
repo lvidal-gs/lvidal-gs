@@ -3,14 +3,11 @@
 <h3 align='center'>Full-Stack Developer Jr.</h3>
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/php-20232A?style=for-the-badge&logo=php&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/laravel-20232A?style=for-the-badge&logo=laravel&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/bootstrap-20232A?style=for-the-badge&logo=bootstrap&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/ANGULAR.JS-20232A?style=for-the-badge&logo=ANGULAR&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-20232A?style=for-the-badge&logo=adobe%20illustrator&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-20232A?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=yellow"/>
 </div>
