@@ -1,6 +1,6 @@
 <h1 align='center'>Hi, everyone! 😄</h1>
 
-<h3 align='center'>Full-Stack Developer Jr.</h3>
+<h3 align='center'>Full-Stack Developer</h3>
 
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=yellow"/>
@@ -15,9 +15,9 @@
 <div id="myInfos">
   <h3 align="center">About me</h3>
    <ul>
-     <li>👨🏽‍💻 Full Stack Developer Jr.</li>
+     <li>👨🏽‍💻 Working with web stack</li>
      <li>🌠 Currently learning Java ☕</li>
-     <li>📧 Do you want to talk with me? Chill out and write to <strong><a href="mailto:lucasvidal.contato@gmail.com">my mail</a></strong>!</li>
+     <li>📧 Do you want to talk with me? Write to <strong><a href="mailto:lucasvidal.contato@gmail.com">my mail</a></strong>!</li>
      <li>You can access my personal website too! <strong><a target="_blank" href="https://lucasvidalweb.web.app">Click here</a></strong> to go there!</li>
    </ul>
 </div>
